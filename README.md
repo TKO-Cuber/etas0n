@@ -7,3 +7,5 @@ To run, open the Jelbrek folder in a terminal using cd <directory> or just click
       ./wen-eta?
   
   Windows version eta son
+  
+  update- windows version released!
